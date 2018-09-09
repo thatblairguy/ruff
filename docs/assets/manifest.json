@@ -1,0 +1,15 @@
+{
+    "name" : "Ruff Edges Sweet Purrs",
+
+    "start_url" : "/?utm_source=app",
+    "display" : "standalone",
+    "theme_color" : "#ffff33",
+
+    "icons" : [
+      {
+        "src" : "/assets/logo-192.png",
+        "type": "image/png",
+        "sizes": "192x192"
+      }
+    ]
+}
