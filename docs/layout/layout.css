@@ -1,3 +1,7 @@
 #contents {
     margin-top: 55px;
 }
+
+.navbar-brand {
+    padding: 0 !important;
+}

@@ -3,6 +3,7 @@
 *.htm   text eol=lf
 *.js    text eol=lf
 *.json  text eol=lf
+*.bat   text eol=crlf
 
 .gitattributes  text eol=lf
 .editorconfig   text eol=lf
